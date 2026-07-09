@@ -2,6 +2,9 @@
 ## Project Overview
 The HR Attrition Analysis Dashboard is an intractive Power BI project developed to analyze employee attrition patterns and support HR decision-making. The Dashboard provides insights into employee turnover by department,overtime,job satisfaction, and years at company.
 
+## Dashboard Preview 
+HR_Attrition_Dashboard.png
+
 ## Business Objective 
 The objective of this project is to:
 -Monitor employee attrition trends.
