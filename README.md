@@ -54,6 +54,10 @@ Dataset: IBM HR Analytics Employee Attrition & Performance
 Source: Kaggle
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
+## Conclusion
+
+This project demonstrates the use of Power BI, SQL, Excel, DAX, and Power Query to analyze employee attaarition and generate actionable insights through interactive dashboard that supports HR decision-making.
+
 ## Author 
 
 **Poojitha M**
