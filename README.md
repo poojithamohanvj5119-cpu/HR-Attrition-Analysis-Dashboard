@@ -43,6 +43,7 @@ The objective of this project is to:
 ## Project Files
 
 -HR Attrtion Dashboard (.pbix)
+-HR_Attrition_SQL_Queries.sql
 -Dashoard Screenshot
 -Business Requirments Document (BRD)
 -Functional Requirments Document (FRD)
